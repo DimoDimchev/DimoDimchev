@@ -4,7 +4,16 @@
 **DimoDimchev/DimoDimchev** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 -->
-
+I am a **hardworking person** that is very interested in the world of IT! Currently I am a student and I am on my journey to becoming a software developer. I study at **American College Arcus and at Software University (SoftUni)** where I am gathering knowledge on various topics regarding **Software and Web Development**. I also enjoy working on small side projects in my free time. You can check out all of my work, including tasks from SoftUni in the **Repositories** section
+  
+  My skills are:
+  - 💻  Python
+  - 💻  HTML 
+  - 💻  CSS  
+  - 💻  JavaScript(still learning)
+  - 💻  Adobe Photoshop
+  - 🤔  Quick thinker and fast learner
+  - 🤔  Excellent team player
 
   <a href="https://github.com/DimoDimchev">
     <img height="150em" src="https://github-readme-stats.vercel.app/api?username=DimoDimchev&theme=radical&show_icons=true" />
