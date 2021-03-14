@@ -11,7 +11,7 @@
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=DimoDimchev&theme=radical&show_icons=true" />
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=DimoDimchev&theme=radical&layout=compact" />
 </a>
-
+<br/>
 <h3 align="center"> 🤝🏻 &nbsp;Connect with Me </h3>
 
 <p align="center">
