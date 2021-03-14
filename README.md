@@ -6,12 +6,11 @@
 -->
 
 
-<p align="center">
   <a href="https://github.com/DimoDimchev">
-    <img height="180em" src="https://github-readme-stats.vercel.app/api?username=DimoDimchev&theme=radical&show_icons=true" />
-    <img height="160em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=DimoDimchev&theme=radical&layout=compact" />
+    <img height="150em" src="https://github-readme-stats.vercel.app/api?username=DimoDimchev&theme=radical&show_icons=true" />
+    <img height="150em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=DimoDimchev&theme=radical&layout=compact" />
   </a>
-</p>
+
 
 <br/>
 <h3 align="center"> 🤝🏻 &nbsp;Connect with Me </h3>
