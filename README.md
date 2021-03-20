@@ -17,8 +17,8 @@ I am a **hardworking person** that is very interested in the world of IT! Curren
   - 🤔  Excellent team player
 
   <a href="https://github.com/DimoDimchev">
-    <img height="150em" src="https://github-readme-stats.vercel.app/api?username=DimoDimchev&theme=graywhite&show_icons=true" />
-    <img height="150em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=DimoDimchev&theme=graywhite&layout=compact" />
+    <img height="150em" src="https://github-readme-stats.vercel.app/api?username=DimoDimchev&theme=dark&show_icons=true" />
+    <img height="150em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=DimoDimchev&theme=dark&layout=compact" />
   </a>
 
 
