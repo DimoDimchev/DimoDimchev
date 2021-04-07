@@ -10,7 +10,7 @@ I am a **hardworking person** that is very interested in the world of IT! Curren
   - 💻  Python
   - 💻  HTML 
   - 💻  CSS  
-  - 💻  JavaScript(still learning)
+  - 💻  JavaScript
   - 💻  Django(still learning)
   - 💻  Adobe Photoshop
   - 🤔  Quick thinker and fast learner
