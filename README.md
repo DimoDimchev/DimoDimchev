@@ -7,9 +7,9 @@
 I am a **hardworking person** that is very interested in the world of IT and has a goal of becoming a software developer! Right now I am in high school and also attend a software development academy. I also enjoy working on small side projects in my free time. You can check out all of my work, including tasks from SoftUni in the **Repositories** section
   
   My tech stack:
-  - 💻  Python
-  - 💻  JavaScript, HTML, CSS
-  - 💻  Django(still learning)
+  - 💻  Python, Django(still learning)
+  - 💻  JavaScript, Firebase
+  - 💻  HTML, CSS 
 
   <a href="https://github.com/DimoDimchev">
     <img height="150em" src="https://github-readme-stats.vercel.app/api?username=DimoDimchev&theme=dark&show_icons=true" />
