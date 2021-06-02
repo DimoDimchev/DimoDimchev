@@ -7,8 +7,11 @@
 I am a **hardworking person** that is very interested in the world of IT and has a goal of becoming a software developer! Right now I am in high school and also attend a software development academy. I also enjoy solving problems on LeetCode and working on side projects in my free time. You can check out all of my work, including tasks from SoftUni in the **Repositories** section
   
   Technologies I've used:
-  - 💻  Python, Django, PostgreSQL
-  - 💻  JavaScript, Firebase
+  - 💻  Python
+  - 💻  Django
+  - 💻  PostgreSQL
+  - 💻  JavaScript
+  - 💻  Firebase
   - 💻  HTML, CSS 
 
   <a href="https://github.com/DimoDimchev">
