@@ -10,6 +10,7 @@ I am a **hardworking person** that is very interested in the world of IT and has
   - 💻  Python
   - 💻  Django
   - 💻  PostgreSQL
+  - 💻  React Native
   - 💻  JavaScript
   - 💻  Firebase
   - 💻  HTML, CSS 
