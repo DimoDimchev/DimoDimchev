@@ -30,8 +30,7 @@ I am a **hardworking person** that is very interested in the world of IT and has
 ### Ways to connect with me:
 <br/>
 <p align="center">
-  <a href="http://www.dimodimchev.me"><img alt="personal website" src="https://img.shields.io/badge/Website-dimodimchev.me-lightgrey"></a>
+  <a href="http://www.dimodimchev.me"><img alt="personal website" src="https://badgen.net/badge/icon/chrome?icon=chrome&label=Website"></a>
 <a href="https://www.linkedin.com/in/dimodimchev"><img alt="LinkedIn" src="https://img.shields.io/badge/LinkedIn-Dimo%20Dimchev%20-blue?style=flat-square&logo=linkedin"></a>
-<a href="https://www.instagram.com/_haripotur/"><img alt="Instagram" src="https://img.shields.io/badge/Instagram-_haripotur-blue?style=flat-square&logo=instagram"></a>
 <a href="ddimchev7@gmail.com"><img alt="Email" src="https://img.shields.io/badge/Email-ddimchev7@gmail.com-blue?style=flat-square&logo=gmail"></a>
 </p>
