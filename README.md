@@ -10,6 +10,7 @@ I am a **hardworking person** that is very interested in the world of IT and has
 
 | Technology | Purpuse of use |
 | ---------- | -------------- |
+| C | Currently exploring [data structures & algorithms with C](https://github.com/DimoDimchev/LearningC) |
 | Python | Learned the fundamentals of programming and advanced programming concepts during my time at the Software University, where I completed the following courses:</br>- [Programming Basics with Python](https://github.com/DimoDimchev/SoftUni-Python-Basics)</br>- [Programming Fundamentals with Python](https://github.com/DimoDimchev/SoftUni-Python-Fundamentals)</br>- [Python Advanced](https://github.com/DimoDimchev/SoftUni-Python-Advanced)</br>- [Python OOP](https://github.com/DimoDimchev/Softuni-Python-OOP)</br>- [Python Web Basics](https://github.com/DimoDimchev/SoftUni-Python-Web-Basics)</br>- [Django Framework](https://github.com/DimoDimchev/SoftUni-Python-Web-Django)</br></br>Developed an app for an [assesment](https://github.com/DimoDimchev/Access-Control) and other small applications like the [2048 game](https://github.com/DimoDimchev/2048) |
 | Django     | Used for learning web development with Python, created my [personal website](http://www.dimodimchev.me/) using Django and learned a very powerful framework overall |
 | PostgreSQL     | Used for the databases of my Django apps |
