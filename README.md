@@ -24,7 +24,7 @@ I am a **hardworking person** that is very interested in the world of IT and has
 <p align="center">
   <a href="https://github.com/DimoDimchev">
     <img height="150em" src="https://github-readme-stats.vercel.app/api?username=DimoDimchev&theme=dark&show_icons=true" />
-    <img height="150em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=DimoDimchev&theme=dark&layout=compact" />
+    <img height="150em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=DimoDimchev&theme=dark&layout=compact&hide=HTML,CSS" />
   </a>
 </p>
 
