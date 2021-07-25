@@ -9,16 +9,18 @@ I am a **hardworking person** that is very interested in the world of IT and has
 ### Technologies I've used:
 
 | Technology | Purpose of use |
-| ---------- | -------------- |
-| C, C++ | Currently exploring [data structures & algorithms with C and C++](https://github.com/DimoDimchev/LearningDataStructures) |
-| Python | Learned the fundamentals of programming and advanced programming concepts during my time at the Software University, where I completed the following courses:</br>- [Programming Basics with Python](https://github.com/DimoDimchev/SoftUni-Python-Basics)</br>- [Programming Fundamentals with Python](https://github.com/DimoDimchev/SoftUni-Python-Fundamentals)</br>- [Python Advanced](https://github.com/DimoDimchev/SoftUni-Python-Advanced)</br>- [Python OOP](https://github.com/DimoDimchev/Softuni-Python-OOP)</br>- [Python Web Basics](https://github.com/DimoDimchev/SoftUni-Python-Web-Basics)</br>- [Django Framework](https://github.com/DimoDimchev/SoftUni-Python-Web-Django)</br></br>Developed an app for an [assesment](https://github.com/DimoDimchev/Access-Control) and other small applications like the [2048 game](https://github.com/DimoDimchev/2048) |
-| JavaScript     | An essential programming language in the modern world that I use for creating Single Page Applications, mobile applications with React Native and more |
-| Django     | Used for learning web development with Python, created my [personal website](http://www.dimodimchev.me/) using Django and learned a very powerful framework overall |
-| React Native     | Learned mobile development with React Native, built several small apps like a [Budget Tracker](https://github.com/DimoDimchev/BudgetTracker) and [Movie Reviews app and a ToDo list app](https://github.com/DimoDimchev/LearningReactNative). A powerful tool that I plan to use for developing mobile applications I have in mind |
-| Firebase     | Used this for easily creating databases for my JavaScript Single Page Applications and some React Native applications |
-| PostgreSQL     | Used for the databases of my Django apps |
-| HTML & CSS     | Learned these essential technologies for developing any website or Single Page Application like [LetItAllOut](https://github.com/DimoDimchev/LetItAllOut)- a SPA I developed |
+| :----------: | -------------- |
+| <img align="center" alt="C" width="35px" src="https://cdn.jsdelivr.net/npm/programming-languages-logos/src/c/c.png"/><img align="center" alt="C++" width="35px" src="https://cdn.jsdelivr.net/npm/programming-languages-logos/src/cpp/cpp.png"/>| Currently exploring [data structures & algorithms with C and C++](https://github.com/DimoDimchev/LearningDataStructures) |
+| <img align="center" alt="Python" width="35px" src="https://cdn.jsdelivr.net/npm/programming-languages-logos/src/python/python.png"/>| Learned the fundamentals of programming and advanced programming concepts during my time at the Software University, where I completed the following courses:</br>- [Programming Basics with Python](https://github.com/DimoDimchev/SoftUni-Python-Basics)</br>- [Programming Fundamentals with Python](https://github.com/DimoDimchev/SoftUni-Python-Fundamentals)</br>- [Python Advanced](https://github.com/DimoDimchev/SoftUni-Python-Advanced)</br>- [Python OOP](https://github.com/DimoDimchev/Softuni-Python-OOP)</br>- [Python Web Basics](https://github.com/DimoDimchev/SoftUni-Python-Web-Basics)</br>- [Django Framework](https://github.com/DimoDimchev/SoftUni-Python-Web-Django)</br></br>Developed an app for an [assesment](https://github.com/DimoDimchev/Access-Control) and other small applications like the [2048 game](https://github.com/DimoDimchev/2048) |
+| <img align="center" alt="JavaScript" width="35px" src="https://cdn.jsdelivr.net/npm/programming-languages-logos/src/javascript/javascript.png"/>| An essential programming language in the modern world that I use for creating Single Page Applications, mobile applications with React Native and more |
+| <img align="center" alt="Django" width="50px" src="https://img.icons8.com/color/48/000000/django.png"/>| Used for learning web development with Python, created my [personal website](http://www.dimodimchev.me/) using Django and learned a very powerful framework overall |
+| <img align="center" alt="React Native" width="35px" src="https://img.icons8.com/color/48/000000/react-native.png"/>| Learned mobile development with React Native, built several small apps like a [Budget Tracker](https://github.com/DimoDimchev/BudgetTracker) and [Movie Reviews app and a ToDo list app](https://github.com/DimoDimchev/LearningReactNative). A powerful tool that I plan to use for developing mobile applications I have in mind |
+| <img align="center" alt="Firebase" width="35px" src="https://img.icons8.com/color/48/000000/firebase.png"/>| Used this for easily creating databases for my JavaScript Single Page Applications and some React Native applications |
+| <img align="center" alt="PostgreSQL" width="35" src="https://img.icons8.com/color/48/000000/postgreesql.png"/>| Used for the databases of my Django apps |
+| <img align="center" alt="HTML" width="35" src="https://img.icons8.com/color/48/000000/html-5--v1.png"/>  <img align="center" alt="CSS" width="35" src="https://img.icons8.com/color/48/000000/css3.png"/>| Learned these essential technologies for developing any website or Single Page Application like [LetItAllOut](https://github.com/DimoDimchev/LetItAllOut)- a SPA I developed |
 
+	
+<br/>
 <br/>
 
 <p align="center">
@@ -31,7 +33,7 @@ I am a **hardworking person** that is very interested in the world of IT and has
 ### Ways to connect with me:
 <br/>
 <p align="center">
-  <a href="http://www.dimodimchev.me"><img alt="personal website" src="https://badgen.net/badge/icon/chrome?icon=chrome&label=Website"></a>
-<a href="https://www.linkedin.com/in/dimodimchev"><img alt="LinkedIn" src="https://img.shields.io/badge/LinkedIn-Dimo%20Dimchev%20-blue?style=flat-square&logo=linkedin"></a>
-<a href="ddimchev7@gmail.com"><img alt="Email" src="https://img.shields.io/badge/Email-ddimchev7@gmail.com-blue?style=flat-square&logo=gmail"></a>
+  	<a href="http://www.dimodimchev.me"><img alt="personal website" src="https://badgen.net/badge/icon/chrome?icon=chrome&label=Website"></a>
+	<a href="https://www.linkedin.com/in/dimodimchev"><img alt="LinkedIn" src="https://img.shields.io/badge/LinkedIn-Dimo%20Dimchev%20-blue?style=flat-square&logo=linkedin"></a>
+	<a href="ddimchev7@gmail.com"><img alt="Email" src="https://img.shields.io/badge/Email-ddimchev7@gmail.com-blue?style=flat-square&logo=gmail"></a>
 </p>
