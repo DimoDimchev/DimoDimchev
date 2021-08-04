@@ -4,9 +4,19 @@
 **DimoDimchev/DimoDimchev** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 -->
-I am a **hardworking person** that is very interested in the world of IT and has a goal of becoming a software developer! Right now I am in high school and also attend a software development academy. I also enjoy solving problems on LeetCode and working on side projects in my free time. You can check out all of my work, including tasks from SoftUni in the [**Repositories**](https://github.com/DimoDimchev?tab=repositories) section
+I am a **hardworking person** that is very interested in the world of IT and has a goal of becoming a software developer! Right now I am in high school and also attend a software development academy. I enjoy creating single-page applications and mobile applications. You can check out my work in the [**Repositories**](https://github.com/DimoDimchev?tab=repositories) section
   
-### Technologies I've used:
+<p align="center">
+  <a href="https://github.com/DimoDimchev">
+    <img height="150em" src="https://github-readme-stats.vercel.app/api?username=DimoDimchev&theme=dark&show_icons=true" />
+    <img height="150em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=DimoDimchev&theme=dark&layout=compact&hide=HTML,CSS" />
+  </a>
+</p>
+
+<br>
+<br>
+
+<h3 align="center">Technologies I've used</h3>
 
 <!-- | Technology | Purpose of use |
 | :----------: | -------------- |
@@ -20,6 +30,7 @@ I am a **hardworking person** that is very interested in the world of IT and has
 | <img align="center" alt="PostgreSQL" width="35" src="https://img.icons8.com/color/48/000000/postgreesql.png"/>| Used for the databases of my Django apps |
 | <img align="center" width="35" src="https://img.icons8.com/color/48/000000/mongodb.png"/> | Used MongoDB as a database for some of the single-page applications I've built |
 | <img align="center" alt="HTML" width="35" src="https://img.icons8.com/color/48/000000/html-5--v1.png"/>  <img align="center" alt="CSS" width="35" src="https://img.icons8.com/color/48/000000/css3.png"/>| Learned these essential technologies for developing any website or Single Page Application like [LetItAllOut](https://github.com/DimoDimchev/LetItAllOut)- a SPA I developed | -->
+
 <p align="center">
 	<img align="center" alt="C" width="35px" src="https://cdn.jsdelivr.net/npm/programming-languages-logos/src/c/c.png"/>
 	<img align="center" alt="C++" width="35px" src="https://cdn.jsdelivr.net/npm/programming-languages-logos/src/cpp/cpp.png"/>
@@ -35,18 +46,11 @@ I am a **hardworking person** that is very interested in the world of IT and has
 	<img align="center" alt="HTML" width="35" src="https://img.icons8.com/color/48/000000/html-5--v1.png"/>
 	<img align="center" alt="CSS" width="35" src="https://img.icons8.com/color/48/000000/css3.png"/>
 </p>
-	
-<br/>
-<br/>
 
-<p align="center">
-  <a href="https://github.com/DimoDimchev">
-    <img height="150em" src="https://github-readme-stats.vercel.app/api?username=DimoDimchev&theme=dark&show_icons=true" />
-    <img height="150em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=DimoDimchev&theme=dark&layout=compact&hide=HTML,CSS" />
-  </a>
-</p>
+<br>
+<br>
 
-### Ways to connect with me:
+<h3 align="center">Ways to connect with me</h3>
 <br/>
 <p align="center">
   	<a href="http://www.dimodimchev.me"><img alt="personal website" src="https://badgen.net/badge/icon/chrome?icon=chrome&label=Website"></a>
