@@ -6,14 +6,13 @@
 -->
 I am a **hardworking person** that is very interested in the world of IT and has a goal of becoming a software developer! Right now I am in high school and also attend a software development academy. I enjoy creating single-page applications and mobile applications. You can check out my work in the [**Repositories**](https://github.com/DimoDimchev?tab=repositories) section
   
-<p align="center">
+<!-- <p align="center">
   <a href="https://github.com/DimoDimchev">
     <img height="150em" src="https://github-readme-stats.vercel.app/api?username=DimoDimchev&theme=dark&show_icons=true" />
     <img height="150em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=DimoDimchev&theme=dark&layout=compact&hide=HTML,CSS" />
   </a>
-</p>
+</p> -->
 
-<br>
 <br>
 
 <h3 align="center">Technologies I've used</h3>
@@ -47,7 +46,6 @@ I am a **hardworking person** that is very interested in the world of IT and has
 	<img align="center" alt="CSS" width="35" src="https://img.icons8.com/color/48/000000/css3.png"/>
 </p>
 
-<br>
 <br>
 
 <h3 align="center">Ways to connect with me</h3>
