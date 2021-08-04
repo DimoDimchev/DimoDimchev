@@ -8,7 +8,7 @@ I am a **hardworking person** that is very interested in the world of IT and has
   
 ### Technologies I've used:
 
-| Technology | Purpose of use |
+<!-- | Technology | Purpose of use |
 | :----------: | -------------- |
 | <img align="center" alt="C" width="35px" src="https://cdn.jsdelivr.net/npm/programming-languages-logos/src/c/c.png"/><img align="center" alt="C++" width="35px" src="https://cdn.jsdelivr.net/npm/programming-languages-logos/src/cpp/cpp.png"/>| Currently exploring [data structures & algorithms with C and C++](https://github.com/DimoDimchev/LearningDataStructures) |
 | <img align="center" alt="Python" width="35px" src="https://cdn.jsdelivr.net/npm/programming-languages-logos/src/python/python.png"/>| Learned the fundamentals of programming and advanced programming concepts during my time at the Software University, where I completed the following courses:</br>- [Programming Basics with Python](https://github.com/DimoDimchev/SoftUni-Python-Basics)</br>- [Programming Fundamentals with Python](https://github.com/DimoDimchev/SoftUni-Python-Fundamentals)</br>- [Python Advanced](https://github.com/DimoDimchev/SoftUni-Python-Advanced)</br>- [Python OOP](https://github.com/DimoDimchev/Softuni-Python-OOP)</br>- [Python Web Basics](https://github.com/DimoDimchev/SoftUni-Python-Web-Basics)</br>- [Django Framework](https://github.com/DimoDimchev/SoftUni-Python-Web-Django)</br></br>Developed an app for an [assesment](https://github.com/DimoDimchev/Access-Control) and other small applications like the [2048 game](https://github.com/DimoDimchev/2048) |
@@ -19,8 +19,22 @@ I am a **hardworking person** that is very interested in the world of IT and has
 | <img align="center" alt="Firebase" width="35px" src="https://img.icons8.com/color/48/000000/firebase.png"/>| Used this for easily creating databases for my JavaScript Single Page Applications and some React Native applications |
 | <img align="center" alt="PostgreSQL" width="35" src="https://img.icons8.com/color/48/000000/postgreesql.png"/>| Used for the databases of my Django apps |
 | <img align="center" width="35" src="https://img.icons8.com/color/48/000000/mongodb.png"/> | Used MongoDB as a database for some of the single-page applications I've built |
-| <img align="center" alt="HTML" width="35" src="https://img.icons8.com/color/48/000000/html-5--v1.png"/>  <img align="center" alt="CSS" width="35" src="https://img.icons8.com/color/48/000000/css3.png"/>| Learned these essential technologies for developing any website or Single Page Application like [LetItAllOut](https://github.com/DimoDimchev/LetItAllOut)- a SPA I developed |
-
+| <img align="center" alt="HTML" width="35" src="https://img.icons8.com/color/48/000000/html-5--v1.png"/>  <img align="center" alt="CSS" width="35" src="https://img.icons8.com/color/48/000000/css3.png"/>| Learned these essential technologies for developing any website or Single Page Application like [LetItAllOut](https://github.com/DimoDimchev/LetItAllOut)- a SPA I developed | -->
+<p align="center">
+	<img align="center" alt="C" width="35px" src="https://cdn.jsdelivr.net/npm/programming-languages-logos/src/c/c.png"/>
+	<img align="center" alt="C++" width="35px" src="https://cdn.jsdelivr.net/npm/programming-languages-logos/src/cpp/cpp.png"/>
+	<img align="center" alt="Python" width="35px" src="https://cdn.jsdelivr.net/npm/programming-languages-logos/src/python/python.png"/>
+	<img align="center" alt="JavaScript" width="35px" src="https://cdn.jsdelivr.net/npm/programming-languages-logos/src/javascript/javascript.png"/>
+	<img align="center" width="40px" src="https://img.icons8.com/color/48/000000/nodejs.png"/>
+	<img align="center" width="50" src="https://www.vectorlogo.zone/logos/expressjs/expressjs-ar21.svg"/>
+	<img align="center" alt="Django" width="50px" src="https://img.icons8.com/color/48/000000/django.png"/>
+	<img align="center" alt="React Native" width="35px" src="https://img.icons8.com/color/48/000000/react-native.png"/>
+	<img align="center" alt="Firebase" width="35px" src="https://img.icons8.com/color/48/000000/firebase.png"/>
+	<img align="center" alt="PostgreSQL" width="35" src="https://img.icons8.com/color/48/000000/postgreesql.png"/>
+	<img align="center" width="35" src="https://img.icons8.com/color/48/000000/mongodb.png"/>
+	<img align="center" alt="HTML" width="35" src="https://img.icons8.com/color/48/000000/html-5--v1.png"/>
+	<img align="center" alt="CSS" width="35" src="https://img.icons8.com/color/48/000000/css3.png"/>
+</p>
 	
 <br/>
 <br/>
