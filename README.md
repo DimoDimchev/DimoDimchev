@@ -6,7 +6,7 @@
 -->
 
 
-I am a **hardworking person** that is very interested in the world of IT and has a goal of becoming a software developer! Right now I am in high school and also attend a software development academy. I enjoy creating single-page applications and mobile applications. You can check out my work in the [**Repositories**](https://github.com/DimoDimchev?tab=repositories) section
+I am a **hardworking person** that is very interested in the world of IT, working as a software developer! Right now I am in high-school and also attend a software development academy. I have experience creating single-page applications, mobile applications, backend applications and more. You can check out my work in the [**Repositories**](https://github.com/DimoDimchev?tab=repositories) section
 
 
   
