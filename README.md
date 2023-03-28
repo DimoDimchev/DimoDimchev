@@ -6,7 +6,7 @@
 -->
 
 
-I am a **hardworking person** that is very interested in the world of IT, currently working as a Junior Python Developer at Strypes! Right now I am in my first year of university. I major in Information Technologies at New Bulgarian University. I have experience creating single-page applications, mobile applications, backend applications, API's and more. You can check out my work in the [**Repositories**](https://github.com/DimoDimchev?tab=repositories) section.
+I am a **hardworking person** that is very interested in the world of IT, currently working as a Middle Python Developer at Strypes! Right now I am in my first year of university. I major in Information Technologies at New Bulgarian University. I have experience creating single-page applications, mobile applications, backend applications, API's and more. You can check out my work in the [**Repositories**](https://github.com/DimoDimchev?tab=repositories) section.
 
 
   
